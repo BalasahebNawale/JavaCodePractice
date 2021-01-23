@@ -6,7 +6,7 @@ public class arra1d {
 		//int[] arr2 = new int[] {4,5,6};
 		//int []arr3 = {7,8,9};
 		/*
-		for(int i=0;i<3;i++) {
+		//for(int i=0;i<3;i++) {
 			System.out.print(arr1[i]);
 			
 		}
